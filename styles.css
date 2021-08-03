@@ -19,7 +19,7 @@ body {
   padding: 0rem 1rem;
 }
 .container-center {
-  max-width: 320px;
+  max-width: 500px;
   margin: auto;
 }
 
@@ -85,6 +85,7 @@ body {
   border: none;
   cursor: pointer;
   font-family: "DM Sans", sans-serif;
+  align-self: center;
 }
 
 .container button:hover {
